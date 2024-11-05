@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Anvarov-web/Anvarov-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-H<h2 align="center">Hey 👋 What's up?</h2>
+<h2 align="center">Hey 👋 What's up?</h2>
 
 ###
 
